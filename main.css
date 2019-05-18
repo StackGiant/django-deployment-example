@@ -1,0 +1,30 @@
+h1{
+  color: white;
+  text-align: center;
+}
+h2{
+  color: white;
+  text-align: center;
+}
+
+body{
+  background-color: #18386d;
+  text-align: center;
+  border: 50px solid #17d676;
+  border-top: 0px solid black;
+  color: #FDFFFC;
+  margin: 0px;
+}
+
+p{
+  color: white;
+  text-align: center;
+  padding-top: 5%;
+  padding-right: 20%;
+  padding-left: 20%;
+}
+
+form{
+  color: white;
+  font-size: 20px;
+}
